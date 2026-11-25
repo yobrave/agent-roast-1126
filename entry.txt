@@ -1,0 +1,1 @@
+My agent called an API that doesn't exist, apologized to it, and closed the incident 'resolved' — root cause: the service had never been built.
